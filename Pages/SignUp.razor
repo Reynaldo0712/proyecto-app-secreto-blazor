@@ -1,0 +1,73 @@
+﻿@page "/signup"
+@inject NavigationManager nav
+@using Tarea5.Data
+@inject UserServices userServices
+@inject HttpClient Http
+
+<div class="container">
+    <center><h2>Sign Up</h2></center>
+    <form @onsubmit="CreateUser">
+        <div class=" form-group">
+            <label>User (Id Cedula)</label>
+            <input type="text" class="form-control" required @bind="_user.Cedula" />
+        </div>
+        <div class=" form-group">
+            <label>Password</label>
+            <input type="password" class="form-control" required @bind="_user.Clave" />
+        </div>
+        <div class=" form-group">
+            <label>Confirm Password</label>
+            <input type="password" class="form-control" required @bind="check"/>
+        </div>
+        <div class="text-center p-3 mb-3">
+            <input type="submit" class="btn btn-primary" value="Sign Up" />
+            <br />
+            <h6 class="text-danger">@message</h6>
+        </div>
+    </form>
+</div>
+
+@code {
+    private List<User> _users = new List<User>();
+    private User _user = new User();
+    private ApiData _data = new ApiData();
+    private string message, check;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _users = await userServices.GetUsersAsync();
+    }
+
+    private async Task CreateUser()
+    {
+        if (_user.Clave == check)
+        {
+            _data = await Http.GetJsonAsync<ApiData>("https://api.adamix.net/apec/cedula/" + _user.Cedula);
+            if (_data.Nombres != null)
+            {
+                var userExist = _users.FirstOrDefault(p => p.Cedula == _user.Cedula);
+                if (userExist != null)
+                {
+                    message = "Id Number already exist";
+                }
+                else if (userExist == null)
+                {
+                    _user.State = "off";
+                    await userServices.AddUserAsync(_user);
+                    nav.NavigateTo("/");
+                    _user = new User();
+                    message = "";
+                }
+            }
+            else
+            {
+                message = "Id Number Incorrect";
+            }
+        }
+        else
+        {
+            message = "Please check your Confirm Password";
+        }
+
+    }
+}

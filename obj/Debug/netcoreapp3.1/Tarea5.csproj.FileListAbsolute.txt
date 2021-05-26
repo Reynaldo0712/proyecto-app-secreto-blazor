@@ -1,0 +1,180 @@
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.exe
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.csprojAssemblyReference.cache
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.AssemblyInfoInputs.cache
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.AssemblyInfo.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.RazorComponent.input.cache
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.RazorAssemblyInfo.cache
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.RazorAssemblyInfo.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.TagHelpers.input.cache
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.TagHelpers.output.cache
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.RazorCoreGenerate.cache
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.RazorTargetAssemblyInfo.cache
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.RazorTargetAssemblyInfo.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\staticwebassets\Tarea5.StaticWebAssets.Manifest.cache
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\staticwebassets\Tarea5.StaticWebAssets.xml
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.csproj.CopyComplete
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.deps.json
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.runtimeconfig.json
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.runtimeconfig.dev.json
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.pdb
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.Views.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.Views.pdb
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.csproj.CoreCompileInputs.cache
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.MvcApplicationPartsAssemblyInfo.cache
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\Tarea5.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.Views.pdb
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.dll
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.pdb
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.genruntimeconfig.cache
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Content.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SignUp.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Razor\Pages\Content.razor.g.cs
+E:\ITLA\ITLA\6to cuatri\Programacion III\Tarea5\Tarea5\obj\Debug\netcoreapp3.1\Razor\Pages\SignUp.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.exe
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.deps.json
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.runtimeconfig.json
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.runtimeconfig.dev.json
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.pdb
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.Views.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.Views.pdb
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\DELL\Source\Repos\Tarea5\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.csprojAssemblyReference.cache
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\staticwebassets\Tarea5.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\staticwebassets\Tarea5.StaticWebAssets.xml
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.RazorComponent.input.cache
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Content.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SignUp.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\RazorDeclaration\Tarea5.dll
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.TagHelpers.input.cache
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.TagHelpers.output.cache
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.RazorCoreGenerate.cache
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Razor\Pages\Content.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Razor\Pages\SignUp.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.RazorAssemblyInfo.cache
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.RazorAssemblyInfo.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.Views.pdb
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.csproj.CopyComplete
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.dll
+C:\Users\DELL\Source\Repos\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.pdb

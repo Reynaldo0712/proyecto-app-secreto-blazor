@@ -1,0 +1,55 @@
+﻿@page "/"
+@inject NavigationManager nav
+@using Tarea5.Data
+@inject UserServices userServices
+
+<div class="container">
+    <center> <img src="image/blog-wp-login (2).png" /></center>
+    <form @onsubmit="toContent">
+        <center><h2 class="text-monospace text-white bg-info">Log In</h2></center>
+        <div class=" form-group">
+            <label>User</label>
+            <input type="text" class="form-control" required @bind="user" />
+        </div>
+        <div class=" form-group">
+            <label>Password</label>
+            <input type="password" class="form-control" required @bind="password" />
+        </div>
+        <div class="text-center p-3 mb-3">
+            <input type="submit" class="btn btn-primary" value="Log In"/>
+            <br />
+            <h6 class="text-danger">@message</h6>
+            <NavLink class="nav-link" href="/signup">
+                <a>Create an account</a>
+            </NavLink>
+        </div>
+    </form> 
+</div>
+
+@code{
+    private List<User> _users = new List<User>();
+    private User _user = new User();
+    private string user, password, message;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _users = await userServices.GetUsersAsync();
+    }
+
+    private async Task toContent()
+    {
+        _user = _users.FirstOrDefault(p => p.Cedula + p.Clave == user + password);
+        if (_user != null)
+        {
+            _user.State = "on";
+            await userServices.UpdateUserAsync(_user);
+            nav.NavigateTo($"/content/{_user.UserId}");
+            message = "";
+        }
+        else
+        {
+            message = "User or Password incorrect";
+        }
+    }
+
+}
